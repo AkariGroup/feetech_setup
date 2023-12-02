@@ -1,4 +1,4 @@
-# feetech-setup
+# feetech_setup
 シリアルバスのfeetechサーボのセッティングをCUI上で行うためのスクリプト
 
 ## 動作確認済み環境
